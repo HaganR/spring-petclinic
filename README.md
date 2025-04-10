@@ -167,3 +167,5 @@ branch1 commit #1
 branch1 commit #2
 branch1 commit #3
 Another commit #1 in branch1
+Another commit #2 in branch1
+Another commit #2 in branch1
