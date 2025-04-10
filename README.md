@@ -169,3 +169,4 @@ branch1 commit #3
 Another commit #1 in branch1
 Another commit #2 in branch1
 Another commit #2 in branch1
+Another commit #3 in branch1
